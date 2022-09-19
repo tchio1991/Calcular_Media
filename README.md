@@ -1,4 +1,4 @@
-#***Calcular Média***
+# ***Calcular Média***
 
 ### O programa faz a seguinte operação utilizando a interface grafica na IDE eclipse:
 
